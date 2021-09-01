@@ -1,0 +1,20 @@
+*{
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
+
+.btn-warning{
+    background-color: #ff9700;
+}
+.text-yellow{
+    color: #ff9700;
+}
+.border-yellow{
+    border: #ff9700 solid 2px;
+}
+
+.text-hero{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.48;
+}
